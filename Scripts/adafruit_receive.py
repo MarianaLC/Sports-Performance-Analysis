@@ -4,8 +4,8 @@ from datetime import date
 import getfit
 import time
 
-ADAFRUIT_IO_KEY = 'aio_GEWr22EO5KFqQFFUFqQecBH13wTH'
-ADAFRUIT_IO_USERNAME = 'laravaz'
+ADAFRUIT_IO_KEY = 'xxxxxx'
+ADAFRUIT_IO_USERNAME = 'xxxxxx'
 aio = Client(ADAFRUIT_IO_USERNAME, ADAFRUIT_IO_KEY)
 
 def transfer():
